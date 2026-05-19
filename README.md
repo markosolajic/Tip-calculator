@@ -1,3 +1,5 @@
+<img width="562" height="304" alt="Tip calculator" src="https://github.com/user-attachments/assets/aba82155-2e68-418d-a3cc-71a539a675fe" />
+
 # Tip Calculator
 
 A simple command-line calculator to quickly calculate tips and final amounts.
